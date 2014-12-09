@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="c_red">#A70010</color>
+    <color name="c_white">#FFFFFF</color>
+    <color name="c_blackOpaque">#80000000</color>
+    <color name="backlabel">#686868</color>
+    <color name="c_252525">#252525</color>
+    <color name="c_8E0619">#8E0619</color>
+    <color name="c_DD1111">#DD1111</color>
+    <color name="c_FEFEFE">#FEFEFE</color>
+    <color name="c_CF001C">#CF001C</color>
+      <color name="c_header">#cf001c</color>
+    <color name="c_5C5C5C">#5C5C5C</color>
+    <color name="c_D3D3D3">#D3D3D3</color>
+    <color name="c_484848">#484848</color>
+    <color name="c_606468">#606468</color>
+    <color name="c_F52020">#F52020</color>
+    <color name="c_8F8F8F">#8F8F8F</color>
+    <color name="c_747474">#747474</color>
+    <color name="c_777777">#777777</color>
+    <color name="c_FF661C">#FF661C</color>
+    <color name="c_848484">#848484</color>
+    <color name="c_EC8938">#EC8938</color>
+    <color name="c_616161">#616161</color>
+    <color name="c_7A7A7A">#7A7A7A</color>
+    <color name="dark_gray_color">#484848</color>
+    <color name="light_red_color">#F52020</color>
+    <color name="black">#000000</color>
+    <color name="txtgraycolor">#2E2E2E</color>
+    <color name="paysel">#39b54a</color>
+    <color name="payunsel">#1c1c1c</color>
+    <color name="c_545454">#545454</color>
+    <color name="c_111111">#111111</color>
+    <color name="c_464646">#464646</color>
+    <color name="c_3AB54A"> #3AB54A</color>
+
+</resources>

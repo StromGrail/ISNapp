@@ -1,0 +1,10 @@
+<ExpandableListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:choiceMode="singleChoice"
+    android:cacheColorHint="@android:color/transparent"
+    android:divider="@drawable/divider"
+    android:dividerHeight="0dp"
+    tools:context="com.pizzahut.ui.NavigationDrawerFragment" />
